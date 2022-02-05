@@ -1,6 +1,6 @@
 *, *::before, *::after {
   box-sizing: border-box;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Fira Code', monospace;
   font-weight: normal;
 }
 
